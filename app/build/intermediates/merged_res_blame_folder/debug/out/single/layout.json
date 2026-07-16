@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.tickets.canjeapp-mergeDebugResources-13:/layout/item_scanned_code.xml",
+        "source": "com.tickets.canjeapp-main-16:/layout/item_scanned_code.xml"
+    },
+    {
+        "merged": "com.tickets.canjeapp-mergeDebugResources-13:/layout/fragment_scanner.xml",
+        "source": "com.tickets.canjeapp-main-16:/layout/fragment_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-mergeDebugResources-13:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-main-16:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-mergeDebugResources-13:\\layout\\fragment_scanner.xml",
+        "source": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-main-16:\\layout\\fragment_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-mergeDebugResources-13:\\layout\\item_scanned_code.xml",
+        "source": "C:\\Users\\Pc-Tickets\\.gradle\\daemon\\7.4.2\\com.tickets.canjeapp-main-16:\\layout\\item_scanned_code.xml"
+    }
+]

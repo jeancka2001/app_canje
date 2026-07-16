@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tickets.canjeapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:4:5-65
+11-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:5:5-67
+12-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:5:22-64
+13
+14    <uses-feature
+14-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:5-85
+15        android:name="android.hardware.camera"
+15-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:19-57
+16        android:required="false" />
+16-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:58-82
+17    <uses-feature
+17-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+18        android:name="android.hardware.camera.front"
+18-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+19        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+19-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+20    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+21    <uses-feature
+21-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+22        android:name="android.hardware.camera.autofocus"
+22-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+23        android:required="false" />
+23-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+24    <uses-feature
+24-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+25        android:name="android.hardware.camera.flash"
+25-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+26        android:required="false" />
+26-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+27    <uses-feature
+27-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+28        android:name="android.hardware.screen.landscape"
+28-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+29        android:required="false" />
+29-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+30    <uses-feature
+30-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+31        android:name="android.hardware.wifi"
+31-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+32        android:required="false" />
+32-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+33
+34    <meta-data
+34-->[com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+35        android:name="android.support.VERSION"
+35-->[com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:26:9-47
+36        android:value="25.3.1" />
+36-->[com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+37
+38    <application
+38-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:9:5-29:19
+39        android:name="android.support.multidex.MultiDexApplication"
+39-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:10:9-68
+40        android:allowBackup="true"
+40-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:11:9-35
+41        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+41-->[com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+42        android:debuggable="true"
+43        android:icon="@drawable/ic_launcher"
+43-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:12:9-45
+44        android:label="@string/app_name"
+44-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:13:9-41
+45        android:supportsRtl="true"
+45-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:14:9-35
+46        android:theme="@style/AppTheme"
+46-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:16:9-40
+47        android:usesCleartextTraffic="true" >
+47-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:15:9-44
+48        <activity
+48-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:18:9-27:20
+49            android:name="com.tickets.canjeapp.MainActivity"
+49-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:19:13-41
+50            android:exported="true"
+50-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:20:13-36
+51            android:screenOrientation="portrait"
+51-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:21:13-49
+52            android:windowSoftInputMode="adjustResize" >
+52-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:22:13-55
+53            <intent-filter>
+53-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:23:13-26:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:24:17-69
+54-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:24:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:25:17-77
+56-->D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:25:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+60            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+60-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+61            android:clearTaskOnLaunch="true"
+61-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+62            android:screenOrientation="sensorLandscape"
+62-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+63            android:stateNotNeeded="true"
+63-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+64            android:theme="@style/zxing_CaptureTheme"
+64-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+65            android:windowSoftInputMode="stateAlwaysHidden" />
+65-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+66    </application>
+67
+68</manifest>

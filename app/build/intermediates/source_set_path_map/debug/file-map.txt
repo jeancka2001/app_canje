@@ -1,0 +1,16 @@
+com.tickets.canjeapp-appcompat-v7-28.0.0-0 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\10fec7a1798e8672bd7f279f4e412fbe\transformed\appcompat-v7-28.0.0\res
+com.tickets.canjeapp-coordinatorlayout-28.0.0-1 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\192e8e84f846518cb63dc4ec8e7602ab\transformed\coordinatorlayout-28.0.0\res
+com.tickets.canjeapp-support-compat-28.0.0-2 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\res
+com.tickets.canjeapp-transition-28.0.0-3 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\86c174bd2d03a1bd90b3b2329579514f\transformed\transition-28.0.0\res
+com.tickets.canjeapp-design-28.0.0-4 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\res
+com.tickets.canjeapp-zxing-android-embedded-3.6.0-5 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\res
+com.tickets.canjeapp-cardview-v7-28.0.0-6 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ac9471a8952fce51d85f5826112c7813\transformed\cardview-v7-28.0.0\res
+com.tickets.canjeapp-recyclerview-v7-28.0.0-7 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\deb05d43185d553e15507984fedc9ce3\transformed\recyclerview-v7-28.0.0\res
+com.tickets.canjeapp-constraint-layout-2.0.4-8 C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\res
+com.tickets.canjeapp-resValues-9 D:\jeancarlos\canje_app\app\build\generated\res\resValues\debug
+com.tickets.canjeapp-rs-10 D:\jeancarlos\canje_app\app\build\generated\res\rs\debug
+com.tickets.canjeapp-mergeDebugResources-11 D:\jeancarlos\canje_app\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.tickets.canjeapp-mergeDebugResources-12 D:\jeancarlos\canje_app\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.tickets.canjeapp-merged_res-13 D:\jeancarlos\canje_app\app\build\intermediates\merged_res\debug
+com.tickets.canjeapp-debug-14 D:\jeancarlos\canje_app\app\src\debug\res
+com.tickets.canjeapp-main-15 D:\jeancarlos\canje_app\app\src\main\res

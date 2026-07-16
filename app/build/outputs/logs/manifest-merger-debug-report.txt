@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\7e5cb4eef637b9904379c9d0d3eaf01e\transformed\viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4c5ecc37cb08315a0f8dbc5dbd397aac\transformed\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\10fec7a1798e8672bd7f279f4e412fbe\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ac9471a8952fce51d85f5826112c7813\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ae2da6129cff063b01e198996d8c2f8b\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\160c2b58afca0994fb8e79886e43b675\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\deb05d43185d553e15507984fedc9ce3\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\87d316c0cc2d8d7c3edf4f23a1dc979f\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\69a71a0b26ef2b2a1b0526c874981383\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\2a5004827991ad649d2952fc91d3f502\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\86c174bd2d03a1bd90b3b2329579514f\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\11f024388362231d268ee58d4debc097\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\258fca4af33c0dfab2195e7a39e5bc93\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\192e8e84f846518cb63dc4ec8e7602ab\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\760f7d1d4ab59f022fbc3c7816b8f95e\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8f12ca1ca8be790f0e8da67fbdc48965\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\dcceabd8acc80aadc1a18c5589c5ab5a\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\c2fd3fb84d647a316e24b8068b8190e5\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\feb02f10e7ea0cd7c09d50678434df92\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\15555d53d34bf556c8202e420042b48a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\577e17ceddd1ded5a50bff838262a32f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\519dc0319bba06d6fdbf5fad9889873b\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\600125b2483000147333360e3e50360d\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8dc65af6e729f333317e85cc5f95d952\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4381b4f7f2ec0802ec9796fb782b3968\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\5f033f825035ee363829391fab03e4f9\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8805e113b505810cb93eb1f931fb1ccf\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ff999a6bef55f068a275b4b19d5379c0\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\be42dbcf305d79d6202d660d32666f8b\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\f84b5ae40695df097a869f14fe033b44\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:4:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.camera
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:5-85
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:7:19-57
+application
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\15555d53d34bf556c8202e420042b48a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\15555d53d34bf556c8202e420042b48a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:10:9-68
+activity#com.tickets.canjeapp.MainActivity
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:21:13-49
+	android:windowSoftInputMode
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\7e5cb4eef637b9904379c9d0d3eaf01e\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:viewbinding:7.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\7e5cb4eef637b9904379c9d0d3eaf01e\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4c5ecc37cb08315a0f8dbc5dbd397aac\transformed\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4c5ecc37cb08315a0f8dbc5dbd397aac\transformed\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\89cf161ca3ce2698b78dd7ae5b4b6101\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\e43cb93e68a3ddbdfb8ed256d56880d9\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\10fec7a1798e8672bd7f279f4e412fbe\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\10fec7a1798e8672bd7f279f4e412fbe\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ac9471a8952fce51d85f5826112c7813\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ac9471a8952fce51d85f5826112c7813\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ae2da6129cff063b01e198996d8c2f8b\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ae2da6129cff063b01e198996d8c2f8b\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\160c2b58afca0994fb8e79886e43b675\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\160c2b58afca0994fb8e79886e43b675\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\deb05d43185d553e15507984fedc9ce3\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\deb05d43185d553e15507984fedc9ce3\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\87d316c0cc2d8d7c3edf4f23a1dc979f\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\87d316c0cc2d8d7c3edf4f23a1dc979f\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\69a71a0b26ef2b2a1b0526c874981383\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\69a71a0b26ef2b2a1b0526c874981383\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\2a5004827991ad649d2952fc91d3f502\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\2a5004827991ad649d2952fc91d3f502\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\86c174bd2d03a1bd90b3b2329579514f\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\86c174bd2d03a1bd90b3b2329579514f\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\11f024388362231d268ee58d4debc097\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\11f024388362231d268ee58d4debc097\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\258fca4af33c0dfab2195e7a39e5bc93\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\258fca4af33c0dfab2195e7a39e5bc93\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\192e8e84f846518cb63dc4ec8e7602ab\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\192e8e84f846518cb63dc4ec8e7602ab\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\760f7d1d4ab59f022fbc3c7816b8f95e\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\760f7d1d4ab59f022fbc3c7816b8f95e\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8f12ca1ca8be790f0e8da67fbdc48965\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8f12ca1ca8be790f0e8da67fbdc48965\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\dcceabd8acc80aadc1a18c5589c5ab5a\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\dcceabd8acc80aadc1a18c5589c5ab5a\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\c2fd3fb84d647a316e24b8068b8190e5\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\c2fd3fb84d647a316e24b8068b8190e5\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\feb02f10e7ea0cd7c09d50678434df92\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\feb02f10e7ea0cd7c09d50678434df92\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4943db208695732634fa24253b17caa5\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\15555d53d34bf556c8202e420042b48a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\15555d53d34bf556c8202e420042b48a\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\577e17ceddd1ded5a50bff838262a32f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\577e17ceddd1ded5a50bff838262a32f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\519dc0319bba06d6fdbf5fad9889873b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\519dc0319bba06d6fdbf5fad9889873b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\600125b2483000147333360e3e50360d\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\600125b2483000147333360e3e50360d\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8dc65af6e729f333317e85cc5f95d952\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8dc65af6e729f333317e85cc5f95d952\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4381b4f7f2ec0802ec9796fb782b3968\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\4381b4f7f2ec0802ec9796fb782b3968\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\5f033f825035ee363829391fab03e4f9\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\5f033f825035ee363829391fab03e4f9\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8805e113b505810cb93eb1f931fb1ccf\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8805e113b505810cb93eb1f931fb1ccf\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ff999a6bef55f068a275b4b19d5379c0\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\ff999a6bef55f068a275b4b19d5379c0\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\be42dbcf305d79d6202d660d32666f8b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\be42dbcf305d79d6202d660d32666f8b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\f84b5ae40695df097a869f14fe033b44\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\f84b5ae40695df097a869f14fe033b44\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		ADDED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jeancarlos\canje_app\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\98337e6760153e5bc9e43b3423da0f2b\transformed\zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\70502b199398d9fbf4537b5ab8a00fa3\transformed\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pc-Tickets\.gradle\caches\transforms-3\8cf9d183b3e42c85679675888c1be822\transformed\support-v4-25.3.1\AndroidManifest.xml:26:9-47
