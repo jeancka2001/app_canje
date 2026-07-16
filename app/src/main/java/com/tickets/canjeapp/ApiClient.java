@@ -20,7 +20,7 @@ public class ApiClient {
 
     private static final OkHttpClient client = new OkHttpClient.Builder()
             .connectTimeout(10, TimeUnit.SECONDS)
-            .readTimeout(10, TimeUnit.SECONDS)
+            .readTimeout(10, TimeUnit.SECONDS) 
             .build();
 
     public interface Callback<T> {
